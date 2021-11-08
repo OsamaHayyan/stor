@@ -1,11 +1,5 @@
 import img1 from "../imgs/jp1.jpg";
-import img2 from "../imgs/jp2.jpg";
-import img3 from "../imgs/jp3.jpg";
-import img4 from "../imgs/jp4.jpg";
-import img5 from "../imgs/jp5.jpg";
-import img6 from "../imgs/jp6.jpg";
-import img7 from "../imgs/jp7.jpg";
-import img8 from "../imgs/jp8.jpg";
+
 
 const products = {
   1: {
