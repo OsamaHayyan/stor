@@ -27,7 +27,7 @@ const products = {
       AND LONG SLEEVES WITH VERY PRONOUNCED SHOULDER PADS.
       FRONT WELT POCKETS. INTERIOR LINING.
       DOUBLE-BREASTED FRONT WITH METAL BUTTON FASTENING.`,
-    src: img2,
+    src: img1,
   },
   3: {
     id: "3",
@@ -36,7 +36,7 @@ const products = {
     color: "BLACK",
     discription: `CROP TOP WITH A SQUARE NECKLINE AND LONG SLEEVES.
       FRONT METAL HOOK FASTENING.`,
-    src: img3,
+    src: img1,
   },
   4: {
     id: "4",
@@ -44,7 +44,7 @@ const products = {
     price: 549,
     color: "BLACK",
     discription: `ROUND NECK T-SHIRT FEATURING MATCHING SHORT PUFF SLEEVES WITH ELASTIC TRIM.`,
-    src: img4,
+    src: img1,
   },
   5: {
     id: "5",
@@ -53,7 +53,7 @@ const products = {
     color: "LIGHT LILAC ",
     discription: `KIMONO WITH SLEEVES FALLING BELOW THE ELBOW AND FRONT WELT POCKETS.
       MATCHING BELT FASTENING.`,
-    src: img5,
+    src: img1,
   },
   6: {
     id: "6",
@@ -62,7 +62,7 @@ const products = {
     color: "BLACK",
     discription: `KNIT T-SHIRT MADE OF SPUN COTTON FABRIC. ROUND NECK AND SHORT SLEEVES.
       CONTRAST EMBROIDERED DETAIL ON THE CHEST`,
-    src: img6,
+    src: img1,
   },
   7: {
     id: "7",
@@ -71,7 +71,7 @@ const products = {
     color: "LIGHT BLUE ",
     discription: `SWEATER FEATURING A HIGH NECK,
       LONG SLEEVES WITH DECORATIVE METAL BUTTONS AND RIBBED TRIMS.`,
-    src: img7,
+    src: img1,
   },
   8: {
     id: "8",
@@ -80,7 +80,7 @@ const products = {
     color: "CREAM",
     discription: `KNIT SWEATER FEATURING A ROUND NECK,
       LONG SLEEVES WITH DECORATIVE METAL BUTTONS AND RIBBED TRIMS.`,
-    src: img8,
+    src: img1,
   },
 };
 
